@@ -13,7 +13,7 @@ The goal of this project was to analyze synthetic sales data for a US & UK-based
 - **Dimensions tracked:** 18 columns including Order Date, Region, Sales Channel, Customer Segment, Product Category, and Order Status.
 
 ## 🛠️ Methodology (The Analytics Process)
-This project was executed in a 6-stage structured analytics pipeline:
+This project was executed in a structured analytics pipeline:
 
 ### 1. Data Cleaning
 - **Deduplication:** Identified and removed 5 fully duplicated transaction records that would have artificially inflated revenue.
