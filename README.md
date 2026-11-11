@@ -35,7 +35,7 @@ Created a multi-sheet architecture (`Trends`, `Category`, `Region`) using PivotT
 
 1. **Electronics & Web Traffic Dominate:** The Electronics category is the overwhelming revenue leader, with "Smart Watch" and "Wireless Earbuds" acting as the flagship products. Furthermore, the **Website** significantly outperforms Marketplaces and Retail Stores as the primary sales channel.
 2. **Geographical Stronghold:** The **US-East** region generates the highest total revenue, indicating strong brand penetration on the East Coast compared to UK and Western US markets.
-3. **Critical Profit Leak (16.5% Return Rate):** Out of the 645 unique orders, 107 were returned. This 16.5% return rate represents a massive amount of lost gross profit and wasted shipping logistics.
+3. **Critical Profit Leak (16.5% Return Rate):** Out of the 645 unique orders, 107 were returned. The 16.5% return rate highlights a potential profitability and operational risk that warrants further investigation.
 
 ## 🎯 Strategic Recommendations
 - **Reallocate Marketing Spend:** Shift the marketing budget away from underperforming physical Retail Stores and funnel it into targeted digital ads for Tech/Electronics products on the US East Coast.
