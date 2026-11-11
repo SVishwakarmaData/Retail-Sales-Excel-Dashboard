@@ -41,5 +41,11 @@ Created a multi-sheet architecture (`Trends`, `Category`, `Region`) using PivotT
 - **Reallocate Marketing Spend:** Consider reallocating part of the marketing budget from Retail Stores toward the Website channel, subject to profitability and customer-acquisition-cost validation and funnel it into targeted digital ads for Tech/Electronics products on the US East Coast.
 - **Investigate the Return Pipeline:** The operations team must immediately investigate why items are being returned. Improving product descriptions, sizing charts, or quality control could instantly recapture thousands of dollars in lost profit.
 
+## ⚠️ Project Limitations
+- **Synthetic Data:** This dataset is synthetic and does not represent real company performance.
+- **Missing Context:** Return-rate analysis does not include detailed return reasons (e.g., defective, wrong size), which would be required for a true root-cause analysis.
+- **Profit Estimation:** Profit is estimated strictly using provided unit costs and does not account for operating expenses (OpEx), shipping costs, taxes, or marketing costs.
+- **Business Application:** Recommendations are based on isolated dataset trends and should be validated against actual holistic business data before real-world implementation.
+
 ## 💻 Tech Stack Used
 - **WPS Office Sheets** (Data Cleaning, Formulas, PivotTables, PivotCharts, Slicers, Dashboard Design)
