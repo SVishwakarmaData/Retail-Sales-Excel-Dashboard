@@ -38,7 +38,7 @@ Created a multi-sheet architecture (`Trends`, `Category`, `Region`) using PivotT
 3. **Critical Profit Leak (16.5% Return Rate):** Out of the 645 unique orders, 107 were returned. The 16.5% return rate highlights a potential profitability and operational risk that warrants further investigation.
 
 ## 🎯 Strategic Recommendations
-- **Reallocate Marketing Spend:** Shift the marketing budget away from underperforming physical Retail Stores and funnel it into targeted digital ads for Tech/Electronics products on the US East Coast.
+- **Reallocate Marketing Spend:** Consider reallocating part of the marketing budget from Retail Stores toward the Website channel, subject to profitability and customer-acquisition-cost validation and funnel it into targeted digital ads for Tech/Electronics products on the US East Coast.
 - **Investigate the Return Pipeline:** The operations team must immediately investigate why items are being returned. Improving product descriptions, sizing charts, or quality control could instantly recapture thousands of dollars in lost profit.
 
 ## 💻 Tech Stack Used
