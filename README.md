@@ -42,4 +42,4 @@ Created a multi-sheet architecture (`Trends`, `Category`, `Region`) using PivotT
 - **Investigate the Return Pipeline:** The operations team must immediately investigate why items are being returned. Improving product descriptions, sizing charts, or quality control could instantly recapture thousands of dollars in lost profit.
 
 ## 💻 Tech Stack Used
-- **Microsoft Excel** (Data Cleaning, Formulas, PivotTables, PivotCharts, Slicers, Dashboard Design)
+- **WPS Office Sheets** (Data Cleaning, Formulas, PivotTables, PivotCharts, Slicers, Dashboard Design)
